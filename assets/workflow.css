@@ -1,0 +1,8 @@
+.wcdm-cards{grid-template-columns:repeat(6,minmax(115px,1fr))}
+.wcdm-card.wcdm-overdue{border-top-color:#8c2b75}
+.wcdm-metabox .wcdm-score{vertical-align:middle;margin-right:6px}
+.wcdm-metabox select,.wcdm-metabox textarea{margin-top:6px}
+.wcdm-signals{margin:10px 0 14px;padding-left:18px;color:#50575e}
+.wcdm-signals li{margin-bottom:5px;list-style:disc}
+@media(max-width:1100px){.wcdm-cards{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:600px){.wcdm-cards{grid-template-columns:repeat(2,1fr)}}
