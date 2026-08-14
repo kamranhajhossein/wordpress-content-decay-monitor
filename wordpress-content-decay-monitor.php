@@ -3,7 +3,7 @@
  * Plugin Name: Content Decay Monitor
  * Plugin URI: https://github.com/kamranhajhossein/wordpress-content-decay-monitor
  * Description: Identify outdated WordPress content, prioritize updates, schedule reviews, and export actionable SEO reports.
- * Version: 1.1.0
+ * Version: 1.1.1
  * Author: Kamran Hajhossein
  * Author URI: https://kamranh.com
  * Text Domain: wordpress-content-decay-monitor
@@ -15,7 +15,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'WCDM_VERSION', '1.1.0' );
+define( 'WCDM_VERSION', '1.1.1' );
 define( 'WCDM_FILE', __FILE__ );
 define( 'WCDM_PATH', plugin_dir_path( __FILE__ ) );
 define( 'WCDM_URL', plugin_dir_url( __FILE__ ) );
