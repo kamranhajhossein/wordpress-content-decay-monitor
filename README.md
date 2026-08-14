@@ -84,6 +84,11 @@ The source follows WordPress capability checks, nonce verification, sanitization
 
 ## Changelog
 
+### 1.1.1
+
+- Updated WordPress compatibility metadata through 7.0
+- Added automated PHP compatibility and secret scanning checks
+
 ### 1.1.0
 
 - Added per-content review schedules, due dates, and private maintenance notes
