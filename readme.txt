@@ -2,9 +2,9 @@
 Contributors: kamranhajhossein
 Tags: seo, content audit, content decay, editorial workflow, woocommerce
 Requires at least: 6.5
-Tested up to: 6.6
+Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,11 @@ No. A private review timestamp is stored separately.
 No. Analysis runs inside WordPress and no tracking or external API request is used.
 
 == Changelog ==
+
+= 1.1.1 =
+
+* Updated tested WordPress compatibility metadata.
+* Added automated PHP compatibility and secret scanning checks.
 
 = 1.1.0 =
 
